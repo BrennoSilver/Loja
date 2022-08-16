@@ -60,6 +60,11 @@
 			<groupId>org.projectlombok</groupId>
 			<artifactId>lombok</artifactId>
 		</dependency>
+		<dependency>
+			<groupId>org.jdbi</groupId>
+			<artifactId>jdbi</artifactId>
+			<version>2.62</version>
+		</dependency>
 	</dependencies>
 
 	<build>
